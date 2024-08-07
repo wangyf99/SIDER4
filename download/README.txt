@@ -1,6 +1,9 @@
 FORMAT DESCRIPTION
 ==================
 
+drug_names.tsv and drug_atc.tsv contain the automatically generated drug names, and their ATC code. You might
+be able to retrieve better names via the ATC codes.
+
 meddra_all_se.tsv.gz
 -----------------------------
 
@@ -11,7 +14,23 @@ meddra_all_se.tsv.gz
 6: side effect name
 
 All side effects found on the labels are given as LLT. Additionally, the PT is shown. There is at least one
-PT for every LLT, but sometimes the PT is the same as the LLT.
+PT for every LLT, but sometimes the PT is the same as the LLT. LLTs are sometimes too detailed, and therefore
+you might want to filter for PT. E.g. for this term:
+
+PT      C0235431        Blood creatinine increased
+
+there are several LLT (leftmost number = count in SIDER 4.1)
+
+149     C0151578        LLT     C0151578        Creatinine increased
+100     C0235431        LLT     C0235431        Blood creatinine increased
+93      C0700225        LLT     C0700225        Serum creatinine increased
+2       C0858118        LLT     C0858118        Plasma creatinine increased
+
+All of these LLTs are equivalent for most purposes and to the same PT. 
+
+344     PT      C0235431        Blood creatinine increased
+
+The mapping was performed by extracting the LLT-->PT relations from UMLS. 
 
 
 meddra_freq.tsv.gz
@@ -54,3 +73,10 @@ meddra_all_label_indications.tsv.gz and meddra_all_label_se.tsv.gz
 These files contain the same data as the indications/se files, but with an additional first column showing the source label.
 
 
+meddra.tsv
+-----------------------------
+
+1: UMLS concept id
+2: MedDRA id
+3: kind of term (from MedDRA e.g. PT = preferred term)
+4: name of side effect

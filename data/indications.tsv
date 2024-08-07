@@ -4148,10 +4148,10 @@ DB00493	Cefotaxime	2631	CID100002631	C1565489	NLP_precondition	Renal Insufficien
 DB00493	Cefotaxime	2631	CID100002631	C1565489	NLP_precondition	Renal Insufficiency	PT	C0035078	Renal failure
 DB00493	Cefotaxime	2631	CID100002631	C1692886	text_mention	Arthritis, Bacterial	PT	C1692886	Arthritis bacterial
 DB00493	Cefotaxime	2631	CID100002631	C2939130	text_mention	Other bacterial diseases	PT	C0004623	Bacterial infection
-DB00494	Entacapone	9831783	CID109831783	C0030567	text_mention	Parkinson Disease	PT	C0242422	Parkinsonism
-DB00494	Entacapone	9831783	CID109831783	C0030567	text_mention	Parkinson Disease	PT	C0030567	Parkinson's disease
 DB00494	Entacapone	4659568	CID104659568	C0030567	NLP_indication	Parkinson Disease	PT	C0242422	Parkinsonism
 DB00494	Entacapone	4659568	CID104659568	C0030567	NLP_indication	Parkinson Disease	PT	C0030567	Parkinson's disease
+DB00494	Entacapone	9831783	CID109831783	C0030567	text_mention	Parkinson Disease	PT	C0242422	Parkinsonism
+DB00494	Entacapone	9831783	CID109831783	C0030567	text_mention	Parkinson Disease	PT	C0030567	Parkinson's disease
 DB00495	Zidovudine	5726	CID100005726	C0001175	text_mention	Acquired Immunodeficiency Syndrome	PT	C0001175	Acquired immunodeficiency syndrome
 DB00495	Zidovudine	5726	CID100005726	C0001175	text_mention	Acquired Immunodeficiency Syndrome	PT	C0004364	Autoimmune disorder
 DB00495	Zidovudine	5726	CID100005726	C0009450	NLP_indication	Communicable Diseases	PT	C0009450	Infection
@@ -4298,19 +4298,6 @@ DB00513	Aminocaproic Acid	564	CID100000564	C0080276	text_mention	Urogenital diso
 DB00513	Aminocaproic Acid	564	CID100000564	C0600139	text_mention	Prostate carcinoma	PT	C0376358	Prostate cancer
 DB00513	Aminocaproic Acid	564	CID100000564	C0684275	NLP_precondition	Haemophilia	PT	C0684275	Haemophilia
 DB00514	Dextromethorphan	3008	CID100003008	C0010200	text_mention	Coughing	PT	C0010200	Cough
-DB00515	Cisplatin	312	CID100000312	C0003811	text_mention	Cardiac Arrhythmia	PT	C0003811	Arrhythmia
-DB00515	Cisplatin	312	CID100000312	C0003962	text_mention	Ascites	PT	C0003962	Ascites
-DB00515	Cisplatin	312	CID100000312	C0019080	text_mention	Hemorrhage	PT	C0019080	Haemorrhage
-DB00515	Cisplatin	312	CID100000312	C0019080	text_mention	Hemorrhage	PT	C0518015	Haemoglobin
-DB00515	Cisplatin	312	CID100000312	C0020621	NLP_indication	Hypokalemia	PT	C0020621	Hypokalaemia
-DB00515	Cisplatin	312	CID100000312	C0022658	text_mention	Kidney Diseases	PT	C0022658	Nephropathy
-DB00515	Cisplatin	312	CID100000312	C0023890	text_mention	Liver Cirrhosis	PT	C0023890	Hepatic cirrhosis
-DB00515	Cisplatin	312	CID100000312	C0030443	text_mention	Familial Periodic Paralysis	PT	C0030443	Familial periodic paralysis
-DB00515	Cisplatin	312	CID100000312	C0030443	text_mention	Familial Periodic Paralysis	PT	C0522224	Paralysis
-DB00515	Cisplatin	312	CID100000312	C0038358	text_mention	Gastric ulcer	PT	C0038358	Gastric ulcer
-DB00515	Cisplatin	312	CID100000312	C0085580	text_mention	Essential Hypertension	PT	C0085580	Essential hypertension
-DB00515	Cisplatin	312	CID100000312	C0220983	text_mention	Metabolic alkalosis	PT	C0220983	Metabolic alkalosis
-DB00515	Cisplatin	312	CID100000312	C0728899	text_mention	Intoxication	PT	C0032343	Poisoning
 DB00515	Cisplatin	2767	CID100002767	C0005684	text_mention	Malignant neoplasm of urinary bladder	PT	C0005684	Bladder cancer
 DB00515	Cisplatin	2767	CID100002767	C0006142	text_mention	Malignant neoplasm of breast	PT	C0006142	Breast cancer
 DB00515	Cisplatin	2767	CID100002767	C0006826	text_mention	Malignant Neoplasms	PT	C0006826	Neoplasm malignant
@@ -4350,6 +4337,19 @@ DB00515	Cisplatin	2767	CID100002767	C1261473	text_mention	Sarcoma	PT	C1261473	Sa
 DB00515	Cisplatin	2767	CID100002767	C1370740	text_mention	Adrenal carcinoma	PT	C0750887	Adrenal gland cancer
 DB00515	Cisplatin	2767	CID100002767	C1565489	NLP_precondition	Renal Insufficiency	PT	C1565489	Renal impairment
 DB00515	Cisplatin	2767	CID100002767	C1565489	NLP_precondition	Renal Insufficiency	PT	C0035078	Renal failure
+DB00515	Cisplatin	312	CID100000312	C0003811	text_mention	Cardiac Arrhythmia	PT	C0003811	Arrhythmia
+DB00515	Cisplatin	312	CID100000312	C0003962	text_mention	Ascites	PT	C0003962	Ascites
+DB00515	Cisplatin	312	CID100000312	C0019080	text_mention	Hemorrhage	PT	C0019080	Haemorrhage
+DB00515	Cisplatin	312	CID100000312	C0019080	text_mention	Hemorrhage	PT	C0518015	Haemoglobin
+DB00515	Cisplatin	312	CID100000312	C0020621	NLP_indication	Hypokalemia	PT	C0020621	Hypokalaemia
+DB00515	Cisplatin	312	CID100000312	C0022658	text_mention	Kidney Diseases	PT	C0022658	Nephropathy
+DB00515	Cisplatin	312	CID100000312	C0023890	text_mention	Liver Cirrhosis	PT	C0023890	Hepatic cirrhosis
+DB00515	Cisplatin	312	CID100000312	C0030443	text_mention	Familial Periodic Paralysis	PT	C0030443	Familial periodic paralysis
+DB00515	Cisplatin	312	CID100000312	C0030443	text_mention	Familial Periodic Paralysis	PT	C0522224	Paralysis
+DB00515	Cisplatin	312	CID100000312	C0038358	text_mention	Gastric ulcer	PT	C0038358	Gastric ulcer
+DB00515	Cisplatin	312	CID100000312	C0085580	text_mention	Essential Hypertension	PT	C0085580	Essential hypertension
+DB00515	Cisplatin	312	CID100000312	C0220983	text_mention	Metabolic alkalosis	PT	C0220983	Metabolic alkalosis
+DB00515	Cisplatin	312	CID100000312	C0728899	text_mention	Intoxication	PT	C0032343	Poisoning
 DB00518	Albendazole	2082	CID100002082	C0009450	NLP_indication	Communicable Diseases	PT	C0009450	Infection
 DB00518	Albendazole	2082	CID100002082	C0010709	text_mention	Cyst	PT	C0010709	Cyst
 DB00518	Albendazole	2082	CID100002082	C0013502	NLP_indication	Echinococcosis	PT	C0013502	Echinococciasis
@@ -4895,6 +4895,20 @@ DB00567	Cephalexin	2666	CID100002666	C0877046	text_mention	Tooth infection	PT	C0
 DB00567	Cephalexin	2666	CID100002666	C1262006	text_mention	Sinusitis bacterial	PT	C1262006	Sinusitis bacterial
 DB00567	Cephalexin	2666	CID100002666	C1565489	NLP_precondition	Renal Insufficiency	PT	C1565489	Renal impairment
 DB00567	Cephalexin	2666	CID100002666	C1565489	NLP_precondition	Renal Insufficiency	PT	C0035078	Renal failure
+DB00569	Fondaparinux sodium	123611	CID100123611	C0002965	NLP_indication	Angina, Unstable	PT	C0002965	Angina unstable
+DB00569	Fondaparinux sodium	123611	CID100123611	C0002965	NLP_indication	Angina, Unstable	PT	C0002962	Angina pectoris
+DB00569	Fondaparinux sodium	123611	CID100123611	C0018801	text_mention	Heart failure	PT	C0018801	Cardiac failure
+DB00569	Fondaparinux sodium	123611	CID100123611	C0019080	NLP_indication	Hemorrhage	PT	C0019080	Haemorrhage
+DB00569	Fondaparinux sodium	123611	CID100123611	C0019080	NLP_indication	Hemorrhage	PT	C0518015	Haemoglobin
+DB00569	Fondaparinux sodium	123611	CID100123611	C0019557	NLP_precondition	Hip Fractures	PT	C0019557	Hip fracture
+DB00569	Fondaparinux sodium	123611	CID100123611	C0027051	NLP_indication	Myocardial Infarction	PT	C0027051	Myocardial infarction
+DB00569	Fondaparinux sodium	123611	CID100123611	C0027051	NLP_indication	Myocardial Infarction	PT	C0948089	Acute coronary syndrome
+DB00569	Fondaparinux sodium	123611	CID100123611	C0034065	NLP_indication	Pulmonary Embolism	PT	C0034065	Pulmonary embolism
+DB00569	Fondaparinux sodium	123611	CID100123611	C0149871	NLP_indication	Deep Vein Thrombosis	PT	C0149871	Deep vein thrombosis
+DB00569	Fondaparinux sodium	123611	CID100123611	C0235511	NLP_indication	Superficial phlebothrombosis	PT	C1510431	Thrombophlebitis superficial
+DB00569	Fondaparinux sodium	123611	CID100123611	C0857496	NLP_indication	Thromboembolic event	PT	C0013922	Embolism
+DB00569	Fondaparinux sodium	123611	CID100123611	C0948369	NLP_indication	Myocardial reinfarction	PT	C0027051	Myocardial infarction
+DB00569	Fondaparinux sodium	123611	CID100123611	C1536220	NLP_indication	ST segment elevation myocardial infarction	PT	C0155626	Acute myocardial infarction
 DB00569	Fondaparinux sodium	923	CID100000923	C0001122	text_mention	Acidosis	PT	C0001122	Acidosis
 DB00569	Fondaparinux sodium	923	CID100000923	C0001125	text_mention	Acidosis, Lactic	PT	C0001125	Lactic acidosis
 DB00569	Fondaparinux sodium	923	CID100000923	C0001403	text_mention	Addison Disease	PT	C0001403	Addison's disease
@@ -4944,20 +4958,6 @@ DB00569	Fondaparinux sodium	923	CID100000923	C0856633	text_mention	Extensive bur
 DB00569	Fondaparinux sodium	923	CID100000923	C1392658	text_mention	Circulatory insufficiency	PT	C1392046	Cardiovascular insufficiency
 DB00569	Fondaparinux sodium	923	CID100000923	C1541124	text_mention	Pyloric obstruction	PT	C0034194	Pyloric stenosis
 DB00569	Fondaparinux sodium	923	CID100000923	C1699648	text_mention	Ileal obstruction	PT	C0235329	Small intestinal obstruction
-DB00569	Fondaparinux sodium	123611	CID100123611	C0002965	NLP_indication	Angina, Unstable	PT	C0002965	Angina unstable
-DB00569	Fondaparinux sodium	123611	CID100123611	C0002965	NLP_indication	Angina, Unstable	PT	C0002962	Angina pectoris
-DB00569	Fondaparinux sodium	123611	CID100123611	C0018801	text_mention	Heart failure	PT	C0018801	Cardiac failure
-DB00569	Fondaparinux sodium	123611	CID100123611	C0019080	NLP_indication	Hemorrhage	PT	C0019080	Haemorrhage
-DB00569	Fondaparinux sodium	123611	CID100123611	C0019080	NLP_indication	Hemorrhage	PT	C0518015	Haemoglobin
-DB00569	Fondaparinux sodium	123611	CID100123611	C0019557	NLP_precondition	Hip Fractures	PT	C0019557	Hip fracture
-DB00569	Fondaparinux sodium	123611	CID100123611	C0027051	NLP_indication	Myocardial Infarction	PT	C0027051	Myocardial infarction
-DB00569	Fondaparinux sodium	123611	CID100123611	C0027051	NLP_indication	Myocardial Infarction	PT	C0948089	Acute coronary syndrome
-DB00569	Fondaparinux sodium	123611	CID100123611	C0034065	NLP_indication	Pulmonary Embolism	PT	C0034065	Pulmonary embolism
-DB00569	Fondaparinux sodium	123611	CID100123611	C0149871	NLP_indication	Deep Vein Thrombosis	PT	C0149871	Deep vein thrombosis
-DB00569	Fondaparinux sodium	123611	CID100123611	C0235511	NLP_indication	Superficial phlebothrombosis	PT	C1510431	Thrombophlebitis superficial
-DB00569	Fondaparinux sodium	123611	CID100123611	C0857496	NLP_indication	Thromboembolic event	PT	C0013922	Embolism
-DB00569	Fondaparinux sodium	123611	CID100123611	C0948369	NLP_indication	Myocardial reinfarction	PT	C0027051	Myocardial infarction
-DB00569	Fondaparinux sodium	123611	CID100123611	C1536220	NLP_indication	ST segment elevation myocardial infarction	PT	C0155626	Acute myocardial infarction
 DB00570	Vinblastine	13342	CID100013342	C0006826	text_mention	Malignant Neoplasms	PT	C0006826	Neoplasm malignant
 DB00570	Vinblastine	13342	CID100013342	C0007097	text_mention	Carcinoma	PT	C0006826	Neoplasm malignant
 DB00570	Vinblastine	13342	CID100013342	C0008497	NLP_indication	Choriocarcinoma	PT	C0008497	Choriocarcinoma
@@ -5705,7 +5705,6 @@ DB00628	Clorazepate	2809	CID100002809	C0233494	text_mention	Tension	PT	C0233494	
 DB00628	Clorazepate	2809	CID100002809	C0236663	NLP_indication	Alcohol withdrawal syndrome	PT	C0236663	Alcohol withdrawal syndrome
 DB00628	Clorazepate	2809	CID100002809	C0751495	NLP_indication	Seizures, Focal	PT	C0751495	Partial seizures
 DB00629	Guanabenz	3517	CID100003517	C0022661	NLP_indication	Kidney Failure, Chronic	PT	C0022661	Renal failure chronic
-DB00630	Alendronate	23682309	CID123682309	C0029456	NLP_indication	Osteoporosis	PT	C0029456	Osteoporosis
 DB00630	Alendronate	2088	CID100002088	C0005940	text_mention	Bone Diseases	PT	C0005940	Bone disorder
 DB00630	Alendronate	2088	CID100002088	C0006826	NLP_precondition	Malignant Neoplasms	PT	C0006826	Neoplasm malignant
 DB00630	Alendronate	2088	CID100002088	C0016658	NLP_indication	Fracture	PT	C0016655	Multiple fractures
@@ -5722,6 +5721,7 @@ DB00630	Alendronate	2088	CID100002088	C0521170	text_mention	Osteoporotic Fractur
 DB00630	Alendronate	2088	CID100002088	C1306580	text_mention	Bone mass decreased	PT	C0877225	Bone density decreased
 DB00630	Alendronate	2088	CID100002088	C1565489	NLP_precondition	Renal Insufficiency	PT	C1565489	Renal impairment
 DB00630	Alendronate	2088	CID100002088	C1565489	NLP_precondition	Renal Insufficiency	PT	C0035078	Renal failure
+DB00630	Alendronate	23682309	CID123682309	C0029456	NLP_indication	Osteoporosis	PT	C0029456	Osteoporosis
 DB00631	Clofarabine	119182	CID100119182	C0023449	NLP_indication	Acute lymphocytic leukemia	PT	C0023449	Acute lymphocytic leukaemia
 DB00631	Clofarabine	119182	CID100119182	C0023467	NLP_precondition	Leukemia, Myelocytic, Acute	PT	C0085669	Acute leukaemia
 DB00631	Clofarabine	119182	CID100119182	C0023467	NLP_precondition	Leukemia, Myelocytic, Acute	PT	C0023467	Acute myeloid leukaemia
@@ -9822,8 +9822,6 @@ DB01026	Ketoconazole	3823	CID100003823	C0221244	NLP_indication	Seborrheic dermat
 DB01026	Ketoconazole	3823	CID100003823	C0221244	NLP_indication	Seborrheic dermatitis of scalp	PT	C0221244	Dandruff
 DB01026	Ketoconazole	3823	CID100003823	C0403723	text_mention	Candiduria	PT	C0403723	Candiduria
 DB01026	Ketoconazole	3823	CID100003823	C1384589	NLP_indication	Tinea cruris	PT	C1384589	Tinea cruris
-DB01029	Irbesartan	9831761	CID109831761	C0020538	NLP_indication	Hypertensive disease	PT	C0020538	Hypertension
-DB01029	Irbesartan	9831761	CID109831761	C0857121	NLP_precondition	Hypertensive (finding)	PT	C0020538	Hypertension
 DB01029	Irbesartan	3749	CID100003749	C0002965	text_mention	Angina, Unstable	PT	C0002965	Angina unstable
 DB01029	Irbesartan	3749	CID100003749	C0002965	text_mention	Angina, Unstable	PT	C0002962	Angina pectoris
 DB01029	Irbesartan	3749	CID100003749	C0011860	NLP_indication	Diabetes Mellitus, Non-Insulin-Dependent	PT	C0011860	Type 2 diabetes mellitus
@@ -9852,6 +9850,8 @@ DB01029	Irbesartan	3749	CID100003749	C0857121	NLP_precondition	Hypertensive (fin
 DB01029	Irbesartan	3749	CID100003749	C0948807	NLP_precondition	Hepatic impairment	PT	C0023895	Liver disorder
 DB01029	Irbesartan	3749	CID100003749	C1565489	NLP_precondition	Renal Insufficiency	PT	C1565489	Renal impairment
 DB01029	Irbesartan	3749	CID100003749	C1565489	NLP_precondition	Renal Insufficiency	PT	C0035078	Renal failure
+DB01029	Irbesartan	9831761	CID109831761	C0020538	NLP_indication	Hypertensive disease	PT	C0020538	Hypertension
+DB01029	Irbesartan	9831761	CID109831761	C0857121	NLP_precondition	Hypertensive (finding)	PT	C0020538	Hypertension
 DB01030	Topotecan	5515	CID100005515	C0006826	NLP_precondition	Malignant Neoplasms	PT	C0006826	Neoplasm malignant
 DB01030	Topotecan	5515	CID100005515	C0007131	NLP_precondition	Non-Small Cell Lung Carcinoma	PT	C0007131	Non-small cell lung cancer
 DB01030	Topotecan	5515	CID100005515	C0017638	text_mention	Glioma	PT	C0017638	Glioma
@@ -10083,17 +10083,6 @@ DB01050	Ibuprofen	3672	CID100003672	C0948873	text_mention	Flu symptoms	PT	C00214
 DB01050	Ibuprofen	3672	CID100003672	C1565489	NLP_precondition	Renal Insufficiency	PT	C1565489	Renal impairment
 DB01050	Ibuprofen	3672	CID100003672	C1565489	NLP_precondition	Renal Insufficiency	PT	C0035078	Renal failure
 DB01050	Ibuprofen	3672	CID100003672	C3495559	NLP_indication	Juvenile arthritis	PT	C3495559	Juvenile idiopathic arthritis
-DB01053	Benzylpenicillin	22502	CID100022502	C0009450	NLP_indication	Communicable Diseases	PT	C0009450	Infection
-DB01053	Benzylpenicillin	22502	CID100022502	C0017575	text_mention	Necrotizing Ulcerative Gingivitis	PT	C0239740	Gingivitis ulcerative
-DB01053	Benzylpenicillin	22502	CID100022502	C0017575	text_mention	Necrotizing Ulcerative Gingivitis	PT	C1096399	Necrotising ulcerative gingivostomatitis
-DB01053	Benzylpenicillin	22502	CID100022502	C0018081	text_mention	Gonorrhea	PT	C0018081	Gonorrhoea
-DB01053	Benzylpenicillin	22502	CID100022502	C0031350	text_mention	Pharyngitis	PT	C0031350	Pharyngitis
-DB01053	Benzylpenicillin	22502	CID100022502	C0032269	text_mention	Pneumococcal Infections	PT	C0032269	Pneumococcal infection
-DB01053	Benzylpenicillin	22502	CID100022502	C0036285	text_mention	Scarlet Fever	PT	C0036285	Scarlet fever
-DB01053	Benzylpenicillin	22502	CID100022502	C0038160	text_mention	Staphylococcal Infections	PT	C0038160	Staphylococcal infection
-DB01053	Benzylpenicillin	22502	CID100022502	C0038395	text_mention	Streptococcal Infections	PT	C0038395	Streptococcal infection
-DB01053	Benzylpenicillin	22502	CID100022502	C0039128	NLP_precondition	Syphilis	PT	C0039128	Syphilis
-DB01053	Benzylpenicillin	22502	CID100022502	C0041912	text_mention	Upper Respiratory Infections	PT	C0041912	Upper respiratory tract infection
 DB01053	Benzylpenicillin	15232	CID100015232	C0004096	NLP_precondition	Asthma	PT	C0004096	Asthma
 DB01053	Benzylpenicillin	15232	CID100015232	C0004610	text_mention	Bacteremia	PT	C0004610	Bacteraemia
 DB01053	Benzylpenicillin	15232	CID100015232	C0008489	text_mention	Chorea	PT	C0008489	Chorea
@@ -10111,6 +10100,17 @@ DB01053	Benzylpenicillin	15232	CID100015232	C0039128	text_mention	Syphilis	PT	C0
 DB01053	Benzylpenicillin	15232	CID100015232	C0042109	NLP_precondition	Urticaria	PT	C0042109	Urticaria
 DB01053	Benzylpenicillin	15232	CID100015232	C0043388	text_mention	Yaws	PT	C0043388	Yaws
 DB01053	Benzylpenicillin	15232	CID100015232	C0156221	text_mention	Glomerulonephritis acute	PT	C0156221	Glomerulonephritis acute
+DB01053	Benzylpenicillin	22502	CID100022502	C0009450	NLP_indication	Communicable Diseases	PT	C0009450	Infection
+DB01053	Benzylpenicillin	22502	CID100022502	C0017575	text_mention	Necrotizing Ulcerative Gingivitis	PT	C0239740	Gingivitis ulcerative
+DB01053	Benzylpenicillin	22502	CID100022502	C0017575	text_mention	Necrotizing Ulcerative Gingivitis	PT	C1096399	Necrotising ulcerative gingivostomatitis
+DB01053	Benzylpenicillin	22502	CID100022502	C0018081	text_mention	Gonorrhea	PT	C0018081	Gonorrhoea
+DB01053	Benzylpenicillin	22502	CID100022502	C0031350	text_mention	Pharyngitis	PT	C0031350	Pharyngitis
+DB01053	Benzylpenicillin	22502	CID100022502	C0032269	text_mention	Pneumococcal Infections	PT	C0032269	Pneumococcal infection
+DB01053	Benzylpenicillin	22502	CID100022502	C0036285	text_mention	Scarlet Fever	PT	C0036285	Scarlet fever
+DB01053	Benzylpenicillin	22502	CID100022502	C0038160	text_mention	Staphylococcal Infections	PT	C0038160	Staphylococcal infection
+DB01053	Benzylpenicillin	22502	CID100022502	C0038395	text_mention	Streptococcal Infections	PT	C0038395	Streptococcal infection
+DB01053	Benzylpenicillin	22502	CID100022502	C0039128	NLP_precondition	Syphilis	PT	C0039128	Syphilis
+DB01053	Benzylpenicillin	22502	CID100022502	C0041912	text_mention	Upper Respiratory Infections	PT	C0041912	Upper respiratory tract infection
 DB01053	Benzylpenicillin	2349	CID100002349	C0001261	text_mention	Actinomycosis	PT	C0001261	Actinomycosis
 DB01053	Benzylpenicillin	2349	CID100002349	C0003175	text_mention	Anthrax disease	PT	C0003175	Anthrax
 DB01053	Benzylpenicillin	2349	CID100002349	C0003864	text_mention	Arthritis	PT	C0003864	Arthritis
@@ -12279,12 +12279,12 @@ DB01235	L-DOPA	104778	CID100104778	C0030567	NLP_indication	Parkinson Disease	PT	
 DB01235	L-DOPA	104778	CID100104778	C0030568	text_mention	Parkinson Disease, Postencephalitic	PT	C0242422	Parkinsonism
 DB01235	L-DOPA	104778	CID100104778	C0030569	NLP_indication	Secondary Parkinson Disease	PT	C0242422	Parkinsonism
 DB01235	L-DOPA	104778	CID100104778	C0728899	text_mention	Intoxication	PT	C0032343	Poisoning
-DB01235	L-DOPA	9831783	CID109831783	C0030567	text_mention	Parkinson Disease	PT	C0242422	Parkinsonism
-DB01235	L-DOPA	9831783	CID109831783	C0030567	text_mention	Parkinson Disease	PT	C0030567	Parkinson's disease
 DB01235	L-DOPA	123809	CID100123809	C0013384	text_mention	Dyskinetic syndrome	PT	C0013384	Dyskinesia
 DB01235	L-DOPA	123809	CID100123809	C0030567	NLP_indication	Parkinson Disease	PT	C0242422	Parkinsonism
 DB01235	L-DOPA	123809	CID100123809	C0030567	NLP_indication	Parkinson Disease	PT	C0030567	Parkinson's disease
 DB01235	L-DOPA	123809	CID100123809	C0270729	text_mention	Drug-induced parkinsonism	PT	C0242422	Parkinsonism
+DB01235	L-DOPA	9831783	CID109831783	C0030567	text_mention	Parkinson Disease	PT	C0242422	Parkinsonism
+DB01235	L-DOPA	9831783	CID109831783	C0030567	text_mention	Parkinson Disease	PT	C0030567	Parkinson's disease
 DB01236	Sevoflurane	5206	CID100005206	C0036572	NLP_precondition	Seizures	PT	C0036572	Convulsion
 DB01238	Aripiprazole	60795	CID100060795	C0001807	text_mention	Aggressive behavior	PT	C0001807	Aggression
 DB01238	Aripiprazole	60795	CID100060795	C0002395	NLP_precondition	Alzheimer's Disease	PT	C0002395	Dementia Alzheimer's type
@@ -12813,6 +12813,35 @@ DB01378	Magnesium	888	CID100000888	C0085584	text_mention	Encephalopathies	PT	C00
 DB01378	Magnesium	888	CID100000888	C0151723	NLP_indication	Hypomagnesaemia	PT	C0151723	Hypomagnesaemia
 DB01378	Magnesium	888	CID100000888	C0268733	NLP_indication	Acute nephritis	PT	C0027697	Nephritis
 DB01378	Magnesium	888	CID100000888	C0268733	NLP_indication	Acute nephritis	PT	C0268732	Nephritic syndrome
+DB01390	Sodium bicarbonate	767	CID100000767	C0001122	text_mention	Acidosis	PT	C0001122	Acidosis
+DB01390	Sodium bicarbonate	767	CID100000767	C0001125	text_mention	Acidosis, Lactic	PT	C0001125	Lactic acidosis
+DB01390	Sodium bicarbonate	767	CID100000767	C0003811	text_mention	Cardiac Arrhythmia	PT	C0003811	Arrhythmia
+DB01390	Sodium bicarbonate	767	CID100000767	C0003962	text_mention	Ascites	PT	C0003962	Ascites
+DB01390	Sodium bicarbonate	767	CID100000767	C0011175	text_mention	Dehydration	PT	C0011175	Dehydration
+DB01390	Sodium bicarbonate	767	CID100000767	C0011849	text_mention	Diabetes Mellitus	PT	C0011849	Diabetes mellitus
+DB01390	Sodium bicarbonate	767	CID100000767	C0011880	text_mention	Diabetic Ketoacidosis	PT	C0011880	Diabetic ketoacidosis
+DB01390	Sodium bicarbonate	767	CID100000767	C0011991	NLP_indication	Diarrhea	PT	C0011991	Diarrhoea
+DB01390	Sodium bicarbonate	767	CID100000767	C0018790	text_mention	Cardiac Arrest	PT	C0018790	Cardiac arrest
+DB01390	Sodium bicarbonate	767	CID100000767	C0018802	text_mention	Congestive heart failure	PT	C0018802	Cardiac failure congestive
+DB01390	Sodium bicarbonate	767	CID100000767	C0020621	NLP_indication	Hypokalemia	PT	C0020621	Hypokalaemia
+DB01390	Sodium bicarbonate	767	CID100000767	C0022658	text_mention	Kidney Diseases	PT	C0022658	Nephropathy
+DB01390	Sodium bicarbonate	767	CID100000767	C0023890	text_mention	Liver Cirrhosis	PT	C0023890	Hepatic cirrhosis
+DB01390	Sodium bicarbonate	767	CID100000767	C0030443	text_mention	Familial Periodic Paralysis	PT	C0030443	Familial periodic paralysis
+DB01390	Sodium bicarbonate	767	CID100000767	C0030443	text_mention	Familial Periodic Paralysis	PT	C0522224	Paralysis
+DB01390	Sodium bicarbonate	767	CID100000767	C0036974	text_mention	Shock	PT	C0036974	Shock
+DB01390	Sodium bicarbonate	767	CID100000767	C0085580	text_mention	Essential Hypertension	PT	C0085580	Essential hypertension
+DB01390	Sodium bicarbonate	767	CID100000767	C0086168	text_mention	Dissociation	PT	C0086168	Dissociation
+DB01390	Sodium bicarbonate	767	CID100000767	C0151595	text_mention	Digitalis intoxication (NOS)	PT	C3160741	Toxicity to various agents
+DB01390	Sodium bicarbonate	767	CID100000767	C0161544	NLP_indication	Poisoning by salicylate	PT	C3160741	Toxicity to various agents
+DB01390	Sodium bicarbonate	767	CID100000767	C0220981	NLP_indication	Metabolic acidosis	PT	C0220981	Metabolic acidosis
+DB01390	Sodium bicarbonate	767	CID100000767	C0220983	NLP_indication	Metabolic alkalosis	PT	C0220983	Metabolic alkalosis
+DB01390	Sodium bicarbonate	767	CID100000767	C0234215	NLP_indication	Sensory Discomfort	PT	C0234215	Discomfort
+DB01390	Sodium bicarbonate	767	CID100000767	C0235575	NLP_indication	Hemolytic reaction	PT	C0019054	Haemolysis
+DB01390	Sodium bicarbonate	767	CID100000767	C0599918	text_mention	Nephrotoxicity	PT	C0595916	Nephropathy toxic
+DB01390	Sodium bicarbonate	767	CID100000767	C0728899	NLP_indication	Intoxication	PT	C0032343	Poisoning
+DB01390	Sodium bicarbonate	767	CID100000767	C1096717	NLP_indication	Pain during injection	PT	C0151828	Injection site pain
+DB01390	Sodium bicarbonate	767	CID100000767	C1392658	text_mention	Circulatory insufficiency	PT	C1392046	Cardiovascular insufficiency
+DB01390	Sodium bicarbonate	767	CID100000767	C1963921	text_mention	Chemical phlebitis	PT	C0031542	Phlebitis
 DB01390	Sodium bicarbonate	923	CID100000923	C0001122	text_mention	Acidosis	PT	C0001122	Acidosis
 DB01390	Sodium bicarbonate	923	CID100000923	C0001125	text_mention	Acidosis, Lactic	PT	C0001125	Lactic acidosis
 DB01390	Sodium bicarbonate	923	CID100000923	C0001403	text_mention	Addison Disease	PT	C0001403	Addison's disease
@@ -12862,35 +12891,6 @@ DB01390	Sodium bicarbonate	923	CID100000923	C0856633	text_mention	Extensive burn
 DB01390	Sodium bicarbonate	923	CID100000923	C1392658	text_mention	Circulatory insufficiency	PT	C1392046	Cardiovascular insufficiency
 DB01390	Sodium bicarbonate	923	CID100000923	C1541124	text_mention	Pyloric obstruction	PT	C0034194	Pyloric stenosis
 DB01390	Sodium bicarbonate	923	CID100000923	C1699648	text_mention	Ileal obstruction	PT	C0235329	Small intestinal obstruction
-DB01390	Sodium bicarbonate	767	CID100000767	C0001122	text_mention	Acidosis	PT	C0001122	Acidosis
-DB01390	Sodium bicarbonate	767	CID100000767	C0001125	text_mention	Acidosis, Lactic	PT	C0001125	Lactic acidosis
-DB01390	Sodium bicarbonate	767	CID100000767	C0003811	text_mention	Cardiac Arrhythmia	PT	C0003811	Arrhythmia
-DB01390	Sodium bicarbonate	767	CID100000767	C0003962	text_mention	Ascites	PT	C0003962	Ascites
-DB01390	Sodium bicarbonate	767	CID100000767	C0011175	text_mention	Dehydration	PT	C0011175	Dehydration
-DB01390	Sodium bicarbonate	767	CID100000767	C0011849	text_mention	Diabetes Mellitus	PT	C0011849	Diabetes mellitus
-DB01390	Sodium bicarbonate	767	CID100000767	C0011880	text_mention	Diabetic Ketoacidosis	PT	C0011880	Diabetic ketoacidosis
-DB01390	Sodium bicarbonate	767	CID100000767	C0011991	NLP_indication	Diarrhea	PT	C0011991	Diarrhoea
-DB01390	Sodium bicarbonate	767	CID100000767	C0018790	text_mention	Cardiac Arrest	PT	C0018790	Cardiac arrest
-DB01390	Sodium bicarbonate	767	CID100000767	C0018802	text_mention	Congestive heart failure	PT	C0018802	Cardiac failure congestive
-DB01390	Sodium bicarbonate	767	CID100000767	C0020621	NLP_indication	Hypokalemia	PT	C0020621	Hypokalaemia
-DB01390	Sodium bicarbonate	767	CID100000767	C0022658	text_mention	Kidney Diseases	PT	C0022658	Nephropathy
-DB01390	Sodium bicarbonate	767	CID100000767	C0023890	text_mention	Liver Cirrhosis	PT	C0023890	Hepatic cirrhosis
-DB01390	Sodium bicarbonate	767	CID100000767	C0030443	text_mention	Familial Periodic Paralysis	PT	C0030443	Familial periodic paralysis
-DB01390	Sodium bicarbonate	767	CID100000767	C0030443	text_mention	Familial Periodic Paralysis	PT	C0522224	Paralysis
-DB01390	Sodium bicarbonate	767	CID100000767	C0036974	text_mention	Shock	PT	C0036974	Shock
-DB01390	Sodium bicarbonate	767	CID100000767	C0085580	text_mention	Essential Hypertension	PT	C0085580	Essential hypertension
-DB01390	Sodium bicarbonate	767	CID100000767	C0086168	text_mention	Dissociation	PT	C0086168	Dissociation
-DB01390	Sodium bicarbonate	767	CID100000767	C0151595	text_mention	Digitalis intoxication (NOS)	PT	C3160741	Toxicity to various agents
-DB01390	Sodium bicarbonate	767	CID100000767	C0161544	NLP_indication	Poisoning by salicylate	PT	C3160741	Toxicity to various agents
-DB01390	Sodium bicarbonate	767	CID100000767	C0220981	NLP_indication	Metabolic acidosis	PT	C0220981	Metabolic acidosis
-DB01390	Sodium bicarbonate	767	CID100000767	C0220983	NLP_indication	Metabolic alkalosis	PT	C0220983	Metabolic alkalosis
-DB01390	Sodium bicarbonate	767	CID100000767	C0234215	NLP_indication	Sensory Discomfort	PT	C0234215	Discomfort
-DB01390	Sodium bicarbonate	767	CID100000767	C0235575	NLP_indication	Hemolytic reaction	PT	C0019054	Haemolysis
-DB01390	Sodium bicarbonate	767	CID100000767	C0599918	text_mention	Nephrotoxicity	PT	C0595916	Nephropathy toxic
-DB01390	Sodium bicarbonate	767	CID100000767	C0728899	NLP_indication	Intoxication	PT	C0032343	Poisoning
-DB01390	Sodium bicarbonate	767	CID100000767	C1096717	NLP_indication	Pain during injection	PT	C0151828	Injection site pain
-DB01390	Sodium bicarbonate	767	CID100000767	C1392658	text_mention	Circulatory insufficiency	PT	C1392046	Cardiovascular insufficiency
-DB01390	Sodium bicarbonate	767	CID100000767	C1963921	text_mention	Chemical phlebitis	PT	C0031542	Phlebitis
 DB01393	Bezafibrate	39042	CID100039042	C0010054	text_mention	Coronary Arteriosclerosis	PT	C0010054	Arteriosclerosis coronary artery
 DB01393	Bezafibrate	39042	CID100039042	C0020443	text_mention	Hypercholesterolemia	PT	C0020443	Hypercholesterolaemia
 DB01393	Bezafibrate	39042	CID100039042	C0020473	text_mention	Hyperlipidemia	PT	C0020473	Hyperlipidaemia
@@ -12907,18 +12907,6 @@ DB01394	Colchicine	2833	CID100002833	C0011991	NLP_precondition	Diarrhea	PT	C0011
 DB01394	Colchicine	2833	CID100002833	C0018099	NLP_precondition	Gout	PT	C0018099	Gout
 DB01394	Colchicine	2833	CID100002833	C1619733	NLP_precondition	Gout flare	PT	C0018099	Gout
 DB01394	Colchicine	2833	CID100002833	C2062908	NLP_indication	Gout acute	PT	C0018099	Gout
-DB01397	Magnesium salicylate	888	CID100000888	C0013537	text_mention	Eclampsia	PT	C0013537	Eclampsia
-DB01397	Magnesium salicylate	888	CID100000888	C0020538	text_mention	Hypertensive disease	PT	C0020538	Hypertension
-DB01397	Magnesium salicylate	888	CID100000888	C0020598	text_mention	Hypocalcemia	PT	C0020598	Hypocalcaemia
-DB01397	Magnesium salicylate	888	CID100000888	C0024473	NLP_indication	Magnesium Deficiency	PT	C0024473	Magnesium deficiency
-DB01397	Magnesium salicylate	888	CID100000888	C0032914	text_mention	Pre-Eclampsia	PT	C0032914	Pre-eclampsia
-DB01397	Magnesium salicylate	888	CID100000888	C0036572	NLP_indication	Seizures	PT	C0036572	Convulsion
-DB01397	Magnesium salicylate	888	CID100000888	C0039621	NLP_indication	Tetany	PT	C0039621	Tetany
-DB01397	Magnesium salicylate	888	CID100000888	C0040524	NLP_indication	Septic Toxemia	PT	C0542241	Bacterial toxaemia
-DB01397	Magnesium salicylate	888	CID100000888	C0085584	text_mention	Encephalopathies	PT	C0085584	Encephalopathy
-DB01397	Magnesium salicylate	888	CID100000888	C0151723	NLP_indication	Hypomagnesaemia	PT	C0151723	Hypomagnesaemia
-DB01397	Magnesium salicylate	888	CID100000888	C0268733	NLP_indication	Acute nephritis	PT	C0027697	Nephritis
-DB01397	Magnesium salicylate	888	CID100000888	C0268733	NLP_indication	Acute nephritis	PT	C0268732	Nephritic syndrome
 DB01397	Magnesium salicylate	338	CID100000338	C0003864	text_mention	Arthritis	PT	C0003864	Arthritis
 DB01397	Magnesium salicylate	338	CID100000338	C0003873	text_mention	Rheumatoid Arthritis	PT	C0003873	Rheumatoid arthritis
 DB01397	Magnesium salicylate	338	CID100000338	C0003873	text_mention	Rheumatoid Arthritis	PT	C0003864	Arthritis
@@ -12946,6 +12934,45 @@ DB01397	Magnesium salicylate	338	CID100000338	C0741453	text_mention	Bedridden	PT
 DB01397	Magnesium salicylate	338	CID100000338	C0856543	text_mention	Keratosis palmaris	PT	C0022596	Palmoplantar keratoderma
 DB01397	Magnesium salicylate	338	CID100000338	C3495559	text_mention	Juvenile arthritis	PT	C3495559	Juvenile idiopathic arthritis
 DB01397	Magnesium salicylate	338	CID100000338	C3665596	text_mention	Warts	PT	C0347390	Skin papilloma
+DB01397	Magnesium salicylate	888	CID100000888	C0013537	text_mention	Eclampsia	PT	C0013537	Eclampsia
+DB01397	Magnesium salicylate	888	CID100000888	C0020538	text_mention	Hypertensive disease	PT	C0020538	Hypertension
+DB01397	Magnesium salicylate	888	CID100000888	C0020598	text_mention	Hypocalcemia	PT	C0020598	Hypocalcaemia
+DB01397	Magnesium salicylate	888	CID100000888	C0024473	NLP_indication	Magnesium Deficiency	PT	C0024473	Magnesium deficiency
+DB01397	Magnesium salicylate	888	CID100000888	C0032914	text_mention	Pre-Eclampsia	PT	C0032914	Pre-eclampsia
+DB01397	Magnesium salicylate	888	CID100000888	C0036572	NLP_indication	Seizures	PT	C0036572	Convulsion
+DB01397	Magnesium salicylate	888	CID100000888	C0039621	NLP_indication	Tetany	PT	C0039621	Tetany
+DB01397	Magnesium salicylate	888	CID100000888	C0040524	NLP_indication	Septic Toxemia	PT	C0542241	Bacterial toxaemia
+DB01397	Magnesium salicylate	888	CID100000888	C0085584	text_mention	Encephalopathies	PT	C0085584	Encephalopathy
+DB01397	Magnesium salicylate	888	CID100000888	C0151723	NLP_indication	Hypomagnesaemia	PT	C0151723	Hypomagnesaemia
+DB01397	Magnesium salicylate	888	CID100000888	C0268733	NLP_indication	Acute nephritis	PT	C0027697	Nephritis
+DB01397	Magnesium salicylate	888	CID100000888	C0268733	NLP_indication	Acute nephritis	PT	C0268732	Nephritic syndrome
+DB01398	Salicylate-sodium	338	CID100000338	C0003864	text_mention	Arthritis	PT	C0003864	Arthritis
+DB01398	Salicylate-sodium	338	CID100000338	C0003873	text_mention	Rheumatoid Arthritis	PT	C0003873	Rheumatoid arthritis
+DB01398	Salicylate-sodium	338	CID100000338	C0003873	text_mention	Rheumatoid Arthritis	PT	C0003864	Arthritis
+DB01398	Salicylate-sodium	338	CID100000338	C0010046	NLP_indication	Corn of toe	PT	C0870082	Hyperkeratosis
+DB01398	Salicylate-sodium	338	CID100000338	C0011603	text_mention	Dermatitis	PT	C0011603	Dermatitis
+DB01398	Salicylate-sodium	338	CID100000338	C0020757	text_mention	Ichthyoses	PT	C0263386	Ichthyosis acquired
+DB01398	Salicylate-sodium	338	CID100000338	C0020757	text_mention	Ichthyoses	PT	C0020757	Ichthyosis
+DB01398	Salicylate-sodium	338	CID100000338	C0021368	NLP_indication	Inflammation	PT	C0021368	Inflammation
+DB01398	Salicylate-sodium	338	CID100000338	C0021564	NLP_indication	Insect Bites	PT	C0853348	Arthropod bite
+DB01398	Salicylate-sodium	338	CID100000338	C0026946	NLP_indication	Mycoses	PT	C0026946	Fungal infection
+DB01398	Salicylate-sodium	338	CID100000338	C0029408	text_mention	Degenerative polyarthritis	PT	C0029408	Osteoarthritis
+DB01398	Salicylate-sodium	338	CID100000338	C0030193	NLP_indication	Pain	PT	C0030193	Pain
+DB01398	Salicylate-sodium	338	CID100000338	C0032027	text_mention	Pityriasis Rubra Pilaris	PT	C0032027	Pityriasis rubra pilaris
+DB01398	Salicylate-sodium	338	CID100000338	C0033860	NLP_indication	Psoriasis	PT	C0033860	Psoriasis
+DB01398	Salicylate-sodium	338	CID100000338	C0034212	text_mention	Pyoderma	PT	C0034212	Pyoderma
+DB01398	Salicylate-sodium	338	CID100000338	C0034212	text_mention	Pyoderma	PT	C1323189	Dermatitis infected
+DB01398	Salicylate-sodium	338	CID100000338	C0035435	text_mention	Rheumatism	PT	C3495832	Rheumatic disorder
+DB01398	Salicylate-sodium	338	CID100000338	C0037274	text_mention	Dermatologic disorders	PT	C0037274	Skin disorder
+DB01398	Salicylate-sodium	338	CID100000338	C0042548	NLP_indication	Plantar wart	PT	C0347390	Skin papilloma
+DB01398	Salicylate-sodium	338	CID100000338	C0043037	NLP_indication	Common wart	PT	C0347390	Skin papilloma
+DB01398	Salicylate-sodium	338	CID100000338	C0241165	NLP_indication	Skin thickening	PT	C0151717	Skin hypertrophy
+DB01398	Salicylate-sodium	338	CID100000338	C0263383	text_mention	Keratosis pilaris	PT	C0263383	Keratosis pilaris
+DB01398	Salicylate-sodium	338	CID100000338	C0376154	NLP_indication	Skin callus	PT	C0870082	Hyperkeratosis
+DB01398	Salicylate-sodium	338	CID100000338	C0741453	text_mention	Bedridden	PT	C0741453	Bedridden
+DB01398	Salicylate-sodium	338	CID100000338	C0856543	text_mention	Keratosis palmaris	PT	C0022596	Palmoplantar keratoderma
+DB01398	Salicylate-sodium	338	CID100000338	C3495559	text_mention	Juvenile arthritis	PT	C3495559	Juvenile idiopathic arthritis
+DB01398	Salicylate-sodium	338	CID100000338	C3665596	text_mention	Warts	PT	C0347390	Skin papilloma
 DB01398	Salicylate-sodium	923	CID100000923	C0001122	text_mention	Acidosis	PT	C0001122	Acidosis
 DB01398	Salicylate-sodium	923	CID100000923	C0001125	text_mention	Acidosis, Lactic	PT	C0001125	Lactic acidosis
 DB01398	Salicylate-sodium	923	CID100000923	C0001403	text_mention	Addison Disease	PT	C0001403	Addison's disease
@@ -12995,33 +13022,6 @@ DB01398	Salicylate-sodium	923	CID100000923	C0856633	text_mention	Extensive burns
 DB01398	Salicylate-sodium	923	CID100000923	C1392658	text_mention	Circulatory insufficiency	PT	C1392046	Cardiovascular insufficiency
 DB01398	Salicylate-sodium	923	CID100000923	C1541124	text_mention	Pyloric obstruction	PT	C0034194	Pyloric stenosis
 DB01398	Salicylate-sodium	923	CID100000923	C1699648	text_mention	Ileal obstruction	PT	C0235329	Small intestinal obstruction
-DB01398	Salicylate-sodium	338	CID100000338	C0003864	text_mention	Arthritis	PT	C0003864	Arthritis
-DB01398	Salicylate-sodium	338	CID100000338	C0003873	text_mention	Rheumatoid Arthritis	PT	C0003873	Rheumatoid arthritis
-DB01398	Salicylate-sodium	338	CID100000338	C0003873	text_mention	Rheumatoid Arthritis	PT	C0003864	Arthritis
-DB01398	Salicylate-sodium	338	CID100000338	C0010046	NLP_indication	Corn of toe	PT	C0870082	Hyperkeratosis
-DB01398	Salicylate-sodium	338	CID100000338	C0011603	text_mention	Dermatitis	PT	C0011603	Dermatitis
-DB01398	Salicylate-sodium	338	CID100000338	C0020757	text_mention	Ichthyoses	PT	C0263386	Ichthyosis acquired
-DB01398	Salicylate-sodium	338	CID100000338	C0020757	text_mention	Ichthyoses	PT	C0020757	Ichthyosis
-DB01398	Salicylate-sodium	338	CID100000338	C0021368	NLP_indication	Inflammation	PT	C0021368	Inflammation
-DB01398	Salicylate-sodium	338	CID100000338	C0021564	NLP_indication	Insect Bites	PT	C0853348	Arthropod bite
-DB01398	Salicylate-sodium	338	CID100000338	C0026946	NLP_indication	Mycoses	PT	C0026946	Fungal infection
-DB01398	Salicylate-sodium	338	CID100000338	C0029408	text_mention	Degenerative polyarthritis	PT	C0029408	Osteoarthritis
-DB01398	Salicylate-sodium	338	CID100000338	C0030193	NLP_indication	Pain	PT	C0030193	Pain
-DB01398	Salicylate-sodium	338	CID100000338	C0032027	text_mention	Pityriasis Rubra Pilaris	PT	C0032027	Pityriasis rubra pilaris
-DB01398	Salicylate-sodium	338	CID100000338	C0033860	NLP_indication	Psoriasis	PT	C0033860	Psoriasis
-DB01398	Salicylate-sodium	338	CID100000338	C0034212	text_mention	Pyoderma	PT	C0034212	Pyoderma
-DB01398	Salicylate-sodium	338	CID100000338	C0034212	text_mention	Pyoderma	PT	C1323189	Dermatitis infected
-DB01398	Salicylate-sodium	338	CID100000338	C0035435	text_mention	Rheumatism	PT	C3495832	Rheumatic disorder
-DB01398	Salicylate-sodium	338	CID100000338	C0037274	text_mention	Dermatologic disorders	PT	C0037274	Skin disorder
-DB01398	Salicylate-sodium	338	CID100000338	C0042548	NLP_indication	Plantar wart	PT	C0347390	Skin papilloma
-DB01398	Salicylate-sodium	338	CID100000338	C0043037	NLP_indication	Common wart	PT	C0347390	Skin papilloma
-DB01398	Salicylate-sodium	338	CID100000338	C0241165	NLP_indication	Skin thickening	PT	C0151717	Skin hypertrophy
-DB01398	Salicylate-sodium	338	CID100000338	C0263383	text_mention	Keratosis pilaris	PT	C0263383	Keratosis pilaris
-DB01398	Salicylate-sodium	338	CID100000338	C0376154	NLP_indication	Skin callus	PT	C0870082	Hyperkeratosis
-DB01398	Salicylate-sodium	338	CID100000338	C0741453	text_mention	Bedridden	PT	C0741453	Bedridden
-DB01398	Salicylate-sodium	338	CID100000338	C0856543	text_mention	Keratosis palmaris	PT	C0022596	Palmoplantar keratoderma
-DB01398	Salicylate-sodium	338	CID100000338	C3495559	text_mention	Juvenile arthritis	PT	C3495559	Juvenile idiopathic arthritis
-DB01398	Salicylate-sodium	338	CID100000338	C3665596	text_mention	Warts	PT	C0347390	Skin papilloma
 DB01399	Salsalate	5161	CID100005161	C0003873	NLP_indication	Rheumatoid Arthritis	PT	C0003873	Rheumatoid arthritis
 DB01399	Salsalate	5161	CID100005161	C0003873	NLP_indication	Rheumatoid Arthritis	PT	C0003864	Arthritis
 DB01399	Salsalate	5161	CID100005161	C0029408	NLP_indication	Degenerative polyarthritis	PT	C0029408	Osteoarthritis
@@ -13031,18 +13031,6 @@ DB01400	Neostigmine	4456	CID100004456	C0012359	NLP_indication	Pathological Dilat
 DB01400	Neostigmine	4456	CID100004456	C0026896	NLP_indication	Myasthenia Gravis	PT	C0026896	Myasthenia gravis
 DB01400	Neostigmine	4456	CID100004456	C0080274	NLP_indication	Urinary Retention	PT	C0080274	Urinary retention
 DB01400	Neostigmine	4456	CID100004456	C2363890	NLP_indication	Intestinal atony	PT	C0030446	Ileus paralytic
-DB01401	Trisalicylate-choline	888	CID100000888	C0013537	text_mention	Eclampsia	PT	C0013537	Eclampsia
-DB01401	Trisalicylate-choline	888	CID100000888	C0020538	text_mention	Hypertensive disease	PT	C0020538	Hypertension
-DB01401	Trisalicylate-choline	888	CID100000888	C0020598	text_mention	Hypocalcemia	PT	C0020598	Hypocalcaemia
-DB01401	Trisalicylate-choline	888	CID100000888	C0024473	NLP_indication	Magnesium Deficiency	PT	C0024473	Magnesium deficiency
-DB01401	Trisalicylate-choline	888	CID100000888	C0032914	text_mention	Pre-Eclampsia	PT	C0032914	Pre-eclampsia
-DB01401	Trisalicylate-choline	888	CID100000888	C0036572	NLP_indication	Seizures	PT	C0036572	Convulsion
-DB01401	Trisalicylate-choline	888	CID100000888	C0039621	NLP_indication	Tetany	PT	C0039621	Tetany
-DB01401	Trisalicylate-choline	888	CID100000888	C0040524	NLP_indication	Septic Toxemia	PT	C0542241	Bacterial toxaemia
-DB01401	Trisalicylate-choline	888	CID100000888	C0085584	text_mention	Encephalopathies	PT	C0085584	Encephalopathy
-DB01401	Trisalicylate-choline	888	CID100000888	C0151723	NLP_indication	Hypomagnesaemia	PT	C0151723	Hypomagnesaemia
-DB01401	Trisalicylate-choline	888	CID100000888	C0268733	NLP_indication	Acute nephritis	PT	C0027697	Nephritis
-DB01401	Trisalicylate-choline	888	CID100000888	C0268733	NLP_indication	Acute nephritis	PT	C0268732	Nephritic syndrome
 DB01401	Trisalicylate-choline	338	CID100000338	C0003864	text_mention	Arthritis	PT	C0003864	Arthritis
 DB01401	Trisalicylate-choline	338	CID100000338	C0003873	text_mention	Rheumatoid Arthritis	PT	C0003873	Rheumatoid arthritis
 DB01401	Trisalicylate-choline	338	CID100000338	C0003873	text_mention	Rheumatoid Arthritis	PT	C0003864	Arthritis
@@ -13070,6 +13058,18 @@ DB01401	Trisalicylate-choline	338	CID100000338	C0741453	text_mention	Bedridden	P
 DB01401	Trisalicylate-choline	338	CID100000338	C0856543	text_mention	Keratosis palmaris	PT	C0022596	Palmoplantar keratoderma
 DB01401	Trisalicylate-choline	338	CID100000338	C3495559	text_mention	Juvenile arthritis	PT	C3495559	Juvenile idiopathic arthritis
 DB01401	Trisalicylate-choline	338	CID100000338	C3665596	text_mention	Warts	PT	C0347390	Skin papilloma
+DB01401	Trisalicylate-choline	888	CID100000888	C0013537	text_mention	Eclampsia	PT	C0013537	Eclampsia
+DB01401	Trisalicylate-choline	888	CID100000888	C0020538	text_mention	Hypertensive disease	PT	C0020538	Hypertension
+DB01401	Trisalicylate-choline	888	CID100000888	C0020598	text_mention	Hypocalcemia	PT	C0020598	Hypocalcaemia
+DB01401	Trisalicylate-choline	888	CID100000888	C0024473	NLP_indication	Magnesium Deficiency	PT	C0024473	Magnesium deficiency
+DB01401	Trisalicylate-choline	888	CID100000888	C0032914	text_mention	Pre-Eclampsia	PT	C0032914	Pre-eclampsia
+DB01401	Trisalicylate-choline	888	CID100000888	C0036572	NLP_indication	Seizures	PT	C0036572	Convulsion
+DB01401	Trisalicylate-choline	888	CID100000888	C0039621	NLP_indication	Tetany	PT	C0039621	Tetany
+DB01401	Trisalicylate-choline	888	CID100000888	C0040524	NLP_indication	Septic Toxemia	PT	C0542241	Bacterial toxaemia
+DB01401	Trisalicylate-choline	888	CID100000888	C0085584	text_mention	Encephalopathies	PT	C0085584	Encephalopathy
+DB01401	Trisalicylate-choline	888	CID100000888	C0151723	NLP_indication	Hypomagnesaemia	PT	C0151723	Hypomagnesaemia
+DB01401	Trisalicylate-choline	888	CID100000888	C0268733	NLP_indication	Acute nephritis	PT	C0027697	Nephritis
+DB01401	Trisalicylate-choline	888	CID100000888	C0268733	NLP_indication	Acute nephritis	PT	C0268732	Nephritic syndrome
 DB01403	Methotrimeprazine	3916	CID100003916	C0003467	text_mention	Anxiety	PT	C0003467	Anxiety
 DB01403	Methotrimeprazine	3916	CID100003916	C0005586	text_mention	Bipolar Disorder	PT	C0005586	Bipolar disorder
 DB01403	Methotrimeprazine	3916	CID100003916	C0005586	text_mention	Bipolar Disorder	PT	C0853193	Bipolar I disorder
@@ -13262,6 +13262,26 @@ DB01580	Oxprenolol	4631	CID100004631	C0030587	text_mention	Paroxysmal atrial tac
 DB01580	Oxprenolol	4631	CID100004631	C0039239	text_mention	Sinus Tachycardia	PT	C0039239	Sinus tachycardia
 DB01580	Oxprenolol	4631	CID100004631	C0151595	text_mention	Digitalis intoxication (NOS)	PT	C3160741	Toxicity to various agents
 DB01580	Oxprenolol	4631	CID100004631	C0151636	text_mention	Premature ventricular contractions	PT	C0151636	Ventricular extrasystoles
+DB01583	Liotrix	853	CID100000853	C0001623	NLP_indication	Adrenal gland hypofunction	PT	C0001623	Adrenal insufficiency
+DB01583	Liotrix	853	CID100000853	C0006826	NLP_indication	Malignant Neoplasms	PT	C0006826	Neoplasm malignant
+DB01583	Liotrix	853	CID100000853	C0018021	NLP_indication	Goiter	PT	C0018021	Goitre
+DB01583	Liotrix	853	CID100000853	C0020517	NLP_indication	Hypersensitivity	PT	C0020517	Hypersensitivity
+DB01583	Liotrix	853	CID100000853	C0020676	NLP_indication	Hypothyroidism	PT	C0020676	Hypothyroidism
+DB01583	Liotrix	853	CID100000853	C0040137	NLP_indication	Thyroid Nodule	PT	C0040136	Thyroid neoplasm
+DB01583	Liotrix	853	CID100000853	C0040147	text_mention	Thyroiditis	PT	C0040147	Thyroiditis
+DB01583	Liotrix	853	CID100000853	C0040149	NLP_indication	Subacute thyroiditis	PT	C0040149	Thyroiditis subacute
+DB01583	Liotrix	853	CID100000853	C0040156	NLP_indication	Thyrotoxicosis	PT	C0020550	Hyperthyroidism
+DB01583	Liotrix	853	CID100000853	C0155626	NLP_indication	Acute myocardial infarction	PT	C0155626	Acute myocardial infarction
+DB01583	Liotrix	853	CID100000853	C0206682	NLP_indication	Follicular thyroid carcinoma	PT	C0206682	Follicular thyroid cancer
+DB01583	Liotrix	853	CID100000853	C0238298	NLP_indication	Myxoedema coma	PT	C0238298	Myxoedema coma
+DB01583	Liotrix	853	CID100000853	C0271790	text_mention	Subclinical hypothyroidism	PT	C0020676	Hypothyroidism
+DB01583	Liotrix	853	CID100000853	C0332907	text_mention	Congenital absence	PT	C0000768	Congenital anomaly
+DB01583	Liotrix	853	CID100000853	C0333641	text_mention	Atrophic	PT	C0333641	Atrophy
+DB01583	Liotrix	853	CID100000853	C0348024	text_mention	Dysfunction thyroid	PT	C0040128	Thyroid disorder
+DB01583	Liotrix	853	CID100000853	C0677607	NLP_indication	Hashimoto Disease	PT	C0920350	Autoimmune thyroiditis
+DB01583	Liotrix	853	CID100000853	C0700502	NLP_indication	Primary hypothyroidism	PT	C0020676	Hypothyroidism
+DB01583	Liotrix	853	CID100000853	C0700502	NLP_indication	Primary hypothyroidism	PT	C0700502	Primary hypothyroidism
+DB01583	Liotrix	853	CID100000853	C0853627	text_mention	Tri-iodothyronine normal	PT	C0853627	Tri-iodothyronine normal
 DB01583	Liotrix	861	CID100000861	C0010308	text_mention	Congenital Hypothyroidism	PT	C0010308	Congenital hypothyroidism
 DB01583	Liotrix	861	CID100000861	C0018021	text_mention	Goiter	PT	C0018021	Goitre
 DB01583	Liotrix	861	CID100000861	C0020550	text_mention	Hyperthyroidism	PT	C0020550	Hyperthyroidism
@@ -13325,26 +13345,6 @@ DB01583	Liotrix	923	CID100000923	C0856633	text_mention	Extensive burns	PT	C07018
 DB01583	Liotrix	923	CID100000923	C1392658	text_mention	Circulatory insufficiency	PT	C1392046	Cardiovascular insufficiency
 DB01583	Liotrix	923	CID100000923	C1541124	text_mention	Pyloric obstruction	PT	C0034194	Pyloric stenosis
 DB01583	Liotrix	923	CID100000923	C1699648	text_mention	Ileal obstruction	PT	C0235329	Small intestinal obstruction
-DB01583	Liotrix	853	CID100000853	C0001623	NLP_indication	Adrenal gland hypofunction	PT	C0001623	Adrenal insufficiency
-DB01583	Liotrix	853	CID100000853	C0006826	NLP_indication	Malignant Neoplasms	PT	C0006826	Neoplasm malignant
-DB01583	Liotrix	853	CID100000853	C0018021	NLP_indication	Goiter	PT	C0018021	Goitre
-DB01583	Liotrix	853	CID100000853	C0020517	NLP_indication	Hypersensitivity	PT	C0020517	Hypersensitivity
-DB01583	Liotrix	853	CID100000853	C0020676	NLP_indication	Hypothyroidism	PT	C0020676	Hypothyroidism
-DB01583	Liotrix	853	CID100000853	C0040137	NLP_indication	Thyroid Nodule	PT	C0040136	Thyroid neoplasm
-DB01583	Liotrix	853	CID100000853	C0040147	text_mention	Thyroiditis	PT	C0040147	Thyroiditis
-DB01583	Liotrix	853	CID100000853	C0040149	NLP_indication	Subacute thyroiditis	PT	C0040149	Thyroiditis subacute
-DB01583	Liotrix	853	CID100000853	C0040156	NLP_indication	Thyrotoxicosis	PT	C0020550	Hyperthyroidism
-DB01583	Liotrix	853	CID100000853	C0155626	NLP_indication	Acute myocardial infarction	PT	C0155626	Acute myocardial infarction
-DB01583	Liotrix	853	CID100000853	C0206682	NLP_indication	Follicular thyroid carcinoma	PT	C0206682	Follicular thyroid cancer
-DB01583	Liotrix	853	CID100000853	C0238298	NLP_indication	Myxoedema coma	PT	C0238298	Myxoedema coma
-DB01583	Liotrix	853	CID100000853	C0271790	text_mention	Subclinical hypothyroidism	PT	C0020676	Hypothyroidism
-DB01583	Liotrix	853	CID100000853	C0332907	text_mention	Congenital absence	PT	C0000768	Congenital anomaly
-DB01583	Liotrix	853	CID100000853	C0333641	text_mention	Atrophic	PT	C0333641	Atrophy
-DB01583	Liotrix	853	CID100000853	C0348024	text_mention	Dysfunction thyroid	PT	C0040128	Thyroid disorder
-DB01583	Liotrix	853	CID100000853	C0677607	NLP_indication	Hashimoto Disease	PT	C0920350	Autoimmune thyroiditis
-DB01583	Liotrix	853	CID100000853	C0700502	NLP_indication	Primary hypothyroidism	PT	C0020676	Hypothyroidism
-DB01583	Liotrix	853	CID100000853	C0700502	NLP_indication	Primary hypothyroidism	PT	C0700502	Primary hypothyroidism
-DB01583	Liotrix	853	CID100000853	C0853627	text_mention	Tri-iodothyronine normal	PT	C0853627	Tri-iodothyronine normal
 DB01586	Ursodeoxycholic acid	5645	CID100005645	C0008312	NLP_indication	Primary biliary cirrhosis	PT	C0008312	Biliary cirrhosis primary
 DB01586	Ursodeoxycholic acid	5645	CID100005645	C0008370	text_mention	Cholestasis	PT	C0008370	Cholestasis
 DB01586	Ursodeoxycholic acid	5645	CID100005645	C0011849	NLP_precondition	Diabetes Mellitus	PT	C0011849	Diabetes mellitus
@@ -13932,6 +13932,10 @@ DB03528	9-Beta-D-Xylofuranosyl-Adenine	191	CID100000191	C1956346	NLP_preconditio
 DB03575	Phencyclidine	6468	CID100006468	C0020517	NLP_precondition	Hypersensitivity	PT	C0020517	Hypersensitivity
 DB03575	Phencyclidine	6468	CID100006468	C0020523	text_mention	Immediate hypersensitivity	PT	C0020523	Type I hypersensitivity
 DB03614	Co-Methylcobalamin	16686079	CID116686079	C0042847	NLP_indication	Vitamin B 12 Deficiency	PT	C0042847	Vitamin B12 deficiency
+DB03681	Chloro Diiron-Oxo Moiety	23925	CID100023925	C0162316	NLP_indication	Iron deficiency anemia	PT	C0162316	Iron deficiency anaemia
+DB03681	Chloro Diiron-Oxo Moiety	23925	CID100023925	C0233494	text_mention	Tension	PT	C0233494	Tension
+DB03681	Chloro Diiron-Oxo Moiety	23925	CID100023925	C0240066	text_mention	Iron deficiency	PT	C0240066	Iron deficiency
+DB03681	Chloro Diiron-Oxo Moiety	23925	CID100023925	C0271930	text_mention	Anemia of pregnancy	PT	C0271930	Anaemia of pregnancy
 DB03681	Chloro Diiron-Oxo Moiety	312	CID100000312	C0003811	text_mention	Cardiac Arrhythmia	PT	C0003811	Arrhythmia
 DB03681	Chloro Diiron-Oxo Moiety	312	CID100000312	C0003962	text_mention	Ascites	PT	C0003962	Ascites
 DB03681	Chloro Diiron-Oxo Moiety	312	CID100000312	C0019080	text_mention	Hemorrhage	PT	C0019080	Haemorrhage
@@ -13945,10 +13949,6 @@ DB03681	Chloro Diiron-Oxo Moiety	312	CID100000312	C0038358	text_mention	Gastric 
 DB03681	Chloro Diiron-Oxo Moiety	312	CID100000312	C0085580	text_mention	Essential Hypertension	PT	C0085580	Essential hypertension
 DB03681	Chloro Diiron-Oxo Moiety	312	CID100000312	C0220983	text_mention	Metabolic alkalosis	PT	C0220983	Metabolic alkalosis
 DB03681	Chloro Diiron-Oxo Moiety	312	CID100000312	C0728899	text_mention	Intoxication	PT	C0032343	Poisoning
-DB03681	Chloro Diiron-Oxo Moiety	23925	CID100023925	C0162316	NLP_indication	Iron deficiency anemia	PT	C0162316	Iron deficiency anaemia
-DB03681	Chloro Diiron-Oxo Moiety	23925	CID100023925	C0233494	text_mention	Tension	PT	C0233494	Tension
-DB03681	Chloro Diiron-Oxo Moiety	23925	CID100023925	C0240066	text_mention	Iron deficiency	PT	C0240066	Iron deficiency
-DB03681	Chloro Diiron-Oxo Moiety	23925	CID100023925	C0271930	text_mention	Anemia of pregnancy	PT	C0271930	Anaemia of pregnancy
 DB03754	Tris(Hydroxymethyl)Aminomethane	6503	CID100006503	C0001122	text_mention	Acidosis	PT	C0001122	Acidosis
 DB03754	Tris(Hydroxymethyl)Aminomethane	6503	CID100006503	C0001127	NLP_precondition	Acidosis, Respiratory	PT	C0001127	Respiratory acidosis
 DB03754	Tris(Hydroxymethyl)Aminomethane	6503	CID100006503	C0018790	NLP_indication	Cardiac Arrest	PT	C0018790	Cardiac arrest
@@ -14333,6 +14333,7 @@ DB04861	Nebivolol	71301	CID100071301	C0027051	NLP_indication	Myocardial Infarcti
 DB04861	Nebivolol	71301	CID100071301	C0857121	NLP_precondition	Hypertensive (finding)	PT	C0020538	Hypertension
 DB04868	Nilotinib	644241	CID100644241	C0023473	NLP_indication	Myeloid Leukemia, Chronic	PT	C0023473	Chronic myeloid leukaemia
 DB04868	Nilotinib	644241	CID100644241	C0856536	NLP_indication	Philadelphia chromosome positive	PT	C0476431	Chromosome analysis abnormal
+DB04874	Picoplatin	222	CID100000222	C0220983	text_mention	Metabolic alkalosis	PT	C0220983	Metabolic alkalosis
 DB04874	Picoplatin	312	CID100000312	C0003811	text_mention	Cardiac Arrhythmia	PT	C0003811	Arrhythmia
 DB04874	Picoplatin	312	CID100000312	C0003962	text_mention	Ascites	PT	C0003962	Ascites
 DB04874	Picoplatin	312	CID100000312	C0019080	text_mention	Hemorrhage	PT	C0019080	Haemorrhage
@@ -14346,7 +14347,6 @@ DB04874	Picoplatin	312	CID100000312	C0038358	text_mention	Gastric ulcer	PT	C0038
 DB04874	Picoplatin	312	CID100000312	C0085580	text_mention	Essential Hypertension	PT	C0085580	Essential hypertension
 DB04874	Picoplatin	312	CID100000312	C0220983	text_mention	Metabolic alkalosis	PT	C0220983	Metabolic alkalosis
 DB04874	Picoplatin	312	CID100000312	C0728899	text_mention	Intoxication	PT	C0032343	Poisoning
-DB04874	Picoplatin	222	CID100000222	C0220983	text_mention	Metabolic alkalosis	PT	C0220983	Metabolic alkalosis
 DB04876	Vildagliptin	5251896	CID105251896	C0011860	NLP_indication	Diabetes Mellitus, Non-Insulin-Dependent	PT	C0011860	Type 2 diabetes mellitus
 DB04890	Bepotastine	164521	CID100164521	C0009766	NLP_indication	Allergic Conjunctivitis	PT	C0009766	Conjunctivitis allergic
 DB04890	Bepotastine	164521	CID100164521	C0033774	NLP_indication	Pruritus	PT	C0033774	Pruritus
@@ -14433,6 +14433,7 @@ DB04972	Canfosfamide	312	CID100000312	C0220983	text_mention	Metabolic alkalosis	
 DB04972	Canfosfamide	312	CID100000312	C0728899	text_mention	Intoxication	PT	C0032343	Poisoning
 DB04996	Satraplatin	175	CID100000175	C0009450	text_mention	Communicable Diseases	PT	C0009450	Infection
 DB04996	Satraplatin	175	CID100000175	C0020625	NLP_indication	Hyponatremia	PT	C0020625	Hyponatraemia
+DB04996	Satraplatin	222	CID100000222	C0220983	text_mention	Metabolic alkalosis	PT	C0220983	Metabolic alkalosis
 DB04996	Satraplatin	312	CID100000312	C0003811	text_mention	Cardiac Arrhythmia	PT	C0003811	Arrhythmia
 DB04996	Satraplatin	312	CID100000312	C0003962	text_mention	Ascites	PT	C0003962	Ascites
 DB04996	Satraplatin	312	CID100000312	C0019080	text_mention	Hemorrhage	PT	C0019080	Haemorrhage
@@ -14446,7 +14447,6 @@ DB04996	Satraplatin	312	CID100000312	C0038358	text_mention	Gastric ulcer	PT	C003
 DB04996	Satraplatin	312	CID100000312	C0085580	text_mention	Essential Hypertension	PT	C0085580	Essential hypertension
 DB04996	Satraplatin	312	CID100000312	C0220983	text_mention	Metabolic alkalosis	PT	C0220983	Metabolic alkalosis
 DB04996	Satraplatin	312	CID100000312	C0728899	text_mention	Intoxication	PT	C0032343	Poisoning
-DB04996	Satraplatin	222	CID100000222	C0220983	text_mention	Metabolic alkalosis	PT	C0220983	Metabolic alkalosis
 DB05013	Ingenol Mebutate	6918670	CID106918670	C0022593	NLP_indication	Keratosis	PT	C0870082	Hyperkeratosis
 DB05013	Ingenol Mebutate	6918670	CID106918670	C0022602	NLP_indication	Actinic keratosis	PT	C0022602	Actinic keratosis
 DB05013	Ingenol Mebutate	6918670	CID106918670	C0022602	NLP_indication	Actinic keratosis	PT	C0022603	Seborrhoeic keratosis
@@ -15169,8 +15169,6 @@ DB06213	Regadenoson	219024	CID100219024	C0018794	NLP_precondition	Heart Block	PT
 DB06213	Regadenoson	219024	CID100219024	C0023976	NLP_precondition	Long QT Syndrome	PT	C0023976	Long QT syndrome
 DB06213	Regadenoson	219024	CID100219024	C0024115	NLP_precondition	Lung diseases	PT	C0024115	Lung disorder
 DB06213	Regadenoson	219024	CID100219024	C0546884	NLP_precondition	Hypovolemia	PT	C0546884	Hypovolaemia
-DB06216	Asenapine	723	CID100000723	C0018802	NLP_indication	Congestive heart failure	PT	C0018802	Cardiac failure congestive
-DB06216	Asenapine	723	CID100000723	C0020538	NLP_indication	Hypertensive disease	PT	C0020538	Hypertension
 DB06216	Asenapine	156326	CID100156326	C0005586	NLP_precondition	Bipolar Disorder	PT	C0005586	Bipolar disorder
 DB06216	Asenapine	156326	CID100156326	C0005586	NLP_precondition	Bipolar Disorder	PT	C0853193	Bipolar I disorder
 DB06216	Asenapine	156326	CID100156326	C0036337	NLP_precondition	Schizoaffective Disorder	PT	C0036337	Schizoaffective disorder
@@ -15179,6 +15177,8 @@ DB06216	Asenapine	156326	CID100156326	C0242422	NLP_precondition	Parkinsonian Dis
 DB06216	Asenapine	156326	CID100156326	C0338831	NLP_precondition	Manic	PT	C0338831	Mania
 DB06216	Asenapine	156326	CID100156326	C0497327	NLP_precondition	Dementia	PT	C0497327	Dementia
 DB06216	Asenapine	156326	CID100156326	C0853193	NLP_indication	Bipolar I disorder	PT	C0853193	Bipolar I disorder
+DB06216	Asenapine	723	CID100000723	C0018802	NLP_indication	Congestive heart failure	PT	C0018802	Cardiac failure congestive
+DB06216	Asenapine	723	CID100000723	C0020538	NLP_indication	Hypertensive disease	PT	C0020538	Hypertension
 DB06218	Lacosamide	219078	CID100219078	C0014544	NLP_precondition	Epilepsy	PT	C0014544	Epilepsy
 DB06218	Lacosamide	219078	CID100219078	C0036572	NLP_indication	Seizures	PT	C0036572	Convulsion
 DB06228	Rivaroxaban	6433119	CID106433119	C0004238	NLP_indication	Atrial Fibrillation	PT	C0004238	Atrial fibrillation
@@ -15230,6 +15230,13 @@ DB06335	Saxagliptin	11235728	CID111235728	C0011880	text_mention	Diabetic Ketoaci
 DB06335	Saxagliptin	11235728	CID111235728	C0030305	text_mention	Pancreatitis	PT	C0030305	Pancreatitis
 DB06335	Saxagliptin	11235728	CID111235728	C1565489	NLP_precondition	Renal Insufficiency	PT	C1565489	Renal impairment
 DB06335	Saxagliptin	11235728	CID111235728	C1565489	NLP_precondition	Renal Insufficiency	PT	C0035078	Renal failure
+DB06402	Telavancin	3081362	CID103081362	C0004626	NLP_indication	Pneumonia, Bacterial	PT	C0004626	Pneumonia bacterial
+DB06402	Telavancin	3081362	CID103081362	C0009450	NLP_indication	Communicable Diseases	PT	C0009450	Infection
+DB06402	Telavancin	3081362	CID103081362	C0343401	text_mention	MRSA - Methicillin resistant Staphylococcus aureus infection	PT	C0038160	Staphylococcal infection
+DB06402	Telavancin	3081362	CID103081362	C0949083	NLP_indication	Nosocomial pneumonia	PT	C0032285	Pneumonia
+DB06402	Telavancin	3081362	CID103081362	C1565489	NLP_precondition	Renal Insufficiency	PT	C1565489	Renal impairment
+DB06402	Telavancin	3081362	CID103081362	C1565489	NLP_precondition	Renal Insufficiency	PT	C0035078	Renal failure
+DB06402	Telavancin	3081362	CID103081362	C1701940	NLP_indication	Pneumonia, Ventilator-Associated	PT	C0032285	Pneumonia
 DB06402	Telavancin	312	CID100000312	C0003811	text_mention	Cardiac Arrhythmia	PT	C0003811	Arrhythmia
 DB06402	Telavancin	312	CID100000312	C0003962	text_mention	Ascites	PT	C0003962	Ascites
 DB06402	Telavancin	312	CID100000312	C0019080	text_mention	Hemorrhage	PT	C0019080	Haemorrhage
@@ -15243,13 +15250,6 @@ DB06402	Telavancin	312	CID100000312	C0038358	text_mention	Gastric ulcer	PT	C0038
 DB06402	Telavancin	312	CID100000312	C0085580	text_mention	Essential Hypertension	PT	C0085580	Essential hypertension
 DB06402	Telavancin	312	CID100000312	C0220983	text_mention	Metabolic alkalosis	PT	C0220983	Metabolic alkalosis
 DB06402	Telavancin	312	CID100000312	C0728899	text_mention	Intoxication	PT	C0032343	Poisoning
-DB06402	Telavancin	3081362	CID103081362	C0004626	NLP_indication	Pneumonia, Bacterial	PT	C0004626	Pneumonia bacterial
-DB06402	Telavancin	3081362	CID103081362	C0009450	NLP_indication	Communicable Diseases	PT	C0009450	Infection
-DB06402	Telavancin	3081362	CID103081362	C0343401	text_mention	MRSA - Methicillin resistant Staphylococcus aureus infection	PT	C0038160	Staphylococcal infection
-DB06402	Telavancin	3081362	CID103081362	C0949083	NLP_indication	Nosocomial pneumonia	PT	C0032285	Pneumonia
-DB06402	Telavancin	3081362	CID103081362	C1565489	NLP_precondition	Renal Insufficiency	PT	C1565489	Renal impairment
-DB06402	Telavancin	3081362	CID103081362	C1565489	NLP_precondition	Renal Insufficiency	PT	C0035078	Renal failure
-DB06402	Telavancin	3081362	CID103081362	C1701940	NLP_indication	Pneumonia, Ventilator-Associated	PT	C0032285	Pneumonia
 DB06414	Etravirine	193962	CID100193962	C0009450	NLP_indication	Communicable Diseases	PT	C0009450	Infection
 DB06414	Etravirine	193962	CID100193962	C0015230	NLP_precondition	Exanthema	PT	C0015230	Rash
 DB06414	Etravirine	193962	CID100193962	C0015230	NLP_precondition	Exanthema	PT	C0011603	Dermatitis
@@ -15307,8 +15307,8 @@ DB06684	Vilazodone	6918313	CID106918313	C0424091	text_mention	Decreased interest
 DB06684	Vilazodone	6918313	CID106918313	C0917799	text_mention	Hypersomnia	PT	C0917799	Hypersomnia
 DB06684	Vilazodone	6918313	CID106918313	C0917801	text_mention	Sleeplessness	PT	C0917801	Insomnia
 DB06684	Vilazodone	6918313	CID106918313	C1269683	NLP_indication	Major Depressive Disorder	PT	C1269683	Major depression
-DB06689	Ethanolamine Oleate	700	CID100000700	C0014867	NLP_precondition	Esophageal Varices	PT	C0014867	Varices oesophageal
 DB06689	Ethanolamine Oleate	16759	CID100016759	C0014867	NLP_indication	Esophageal Varices	PT	C0014867	Varices oesophageal
+DB06689	Ethanolamine Oleate	700	CID100000700	C0014867	NLP_precondition	Esophageal Varices	PT	C0014867	Varices oesophageal
 DB06691	Mepyramine	4992	CID100004992	C0005658	NLP_indication	bite injury	PT	C0005658	Bite
 DB06691	Mepyramine	4992	CID100004992	C0038340	NLP_indication	Sting Injury	PT	C0852932	Arthropod sting
 DB06691	Mepyramine	4992	CID100004992	C1536459	text_mention	Nettle rash	PT	C0042109	Urticaria
@@ -15387,6 +15387,7 @@ DB06704	Iobenguane	60860	CID100060860	C0030421	text_mention	Paraganglioma	PT	C00
 DB06704	Iobenguane	60860	CID100060860	C0031511	text_mention	Pheochromocytoma	PT	C0031511	Phaeochromocytoma
 DB06704	Iobenguane	60860	CID100060860	C0206754	text_mention	Neuroendocrine Tumors	PT	C0206754	Neuroendocrine tumour
 DB06704	Iobenguane	60860	CID100060860	C0238462	text_mention	Medullary carcinoma of thyroid	PT	C0238462	Medullary thyroid cancer
+DB06705	Gadofosveset trisodium	11672461	CID111672461	C0042373	text_mention	Vascular Diseases	PT	C0042373	Angiopathy
 DB06705	Gadofosveset trisodium	923	CID100000923	C0001122	text_mention	Acidosis	PT	C0001122	Acidosis
 DB06705	Gadofosveset trisodium	923	CID100000923	C0001125	text_mention	Acidosis, Lactic	PT	C0001125	Lactic acidosis
 DB06705	Gadofosveset trisodium	923	CID100000923	C0001403	text_mention	Addison Disease	PT	C0001403	Addison's disease
@@ -15436,7 +15437,6 @@ DB06705	Gadofosveset trisodium	923	CID100000923	C0856633	text_mention	Extensive 
 DB06705	Gadofosveset trisodium	923	CID100000923	C1392658	text_mention	Circulatory insufficiency	PT	C1392046	Cardiovascular insufficiency
 DB06705	Gadofosveset trisodium	923	CID100000923	C1541124	text_mention	Pyloric obstruction	PT	C0034194	Pyloric stenosis
 DB06705	Gadofosveset trisodium	923	CID100000923	C1699648	text_mention	Ileal obstruction	PT	C0235329	Small intestinal obstruction
-DB06705	Gadofosveset trisodium	11672461	CID111672461	C0042373	text_mention	Vascular Diseases	PT	C0042373	Angiopathy
 DB06709	Methacholine	1993	CID100001993	C0004096	text_mention	Asthma	PT	C0004096	Asthma
 DB06709	Methacholine	1993	CID100001993	C0007222	NLP_precondition	Cardiovascular Diseases	PT	C0007222	Cardiovascular disorder
 DB06709	Methacholine	1993	CID100001993	C0014544	NLP_precondition	Epilepsy	PT	C0014544	Epilepsy
